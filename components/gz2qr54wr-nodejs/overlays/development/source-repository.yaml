@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gz2qr54wr-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gz2qr54wr-nodejs
